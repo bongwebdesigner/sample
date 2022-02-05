@@ -1,0 +1,140 @@
+body{
+	background-color: black;
+	text: white;
+}
+div.scroll {
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scroll a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  color: yellow;
+  font-size: 200%;
+  font-family: sans-serif;
+}
+
+div.scroll2 {
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scroll2 a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  color: yellow;
+  font-size: 200%;
+  font-family: sans-serif;
+}
+
+div.scroll3 {
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scroll3 a {
+  display: inline-block;
+  color: beige;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  color: yellow;
+  font-size: 200%;
+  font-family: sans-serif;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+	margin-left: 50px;
+}
+.one{
+	background-image: url("https://cdn.pixabay.com/photo/2013/11/03/08/05/cheers-204742__340.jpg");
+	height: 300px;
+	width: 400px;
+	margin-left: 20px;
+    color: yellow;
+}
+.two{
+	background-image: url("https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.three{
+	background-image: url("https://cdn.pixabay.com/photo/2016/11/03/05/08/street-1793511__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.four{
+	background-image: url("https://cdn.pixabay.com/photo/2018/07/07/11/30/success-3521937__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.five{
+	background-image: url("https://cdn.pixabay.com/photo/2020/06/18/19/15/sea-5314726__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.six{
+	background-image: url("https://www.fabhotels.com/blog/wp-content/uploads/2019/05/Historical-Places-in-Kolkata_600.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.sev{
+	background-image: url("https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.eig{
+	background-image: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274__340.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.nin{
+	background-image: url("https://pbs.twimg.com/profile_images/1387822869619478540/lhocXKtV_400x400.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.ten{
+	background-image: url("https://st1.bollywoodlife.com/wp-content/uploads/2020/06/FotoJet208.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.ele{
+	background-image: url("https://pbs.twimg.com/profile_images/1398261158637887498/n6WSubuA_400x400.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
+.twe{
+	background-image: url("https://static.toiimg.com/thumb/msid-78459225,width-400,resizemode-4/78459225.jpg");
+	height: 300px;
+	width: 400px;	
+	margin-left: 20px;
+	color: yellow;
+}
